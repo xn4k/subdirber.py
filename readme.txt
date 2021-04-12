@@ -1,3 +1,6 @@
+i just wanted to pack 2 things that i like and combine them sublist3r and dirb , i was not able to brute multiple hosts 
+so there is subdirber :D 
+
 how to start : 
 
 python3 subdirber.py
