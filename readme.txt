@@ -1,6 +1,6 @@
-I am excited to share with you my latest weird Frankenstein creation: Subdirber. As a developer, I always enjoy finding ways to combine and enhance existing tools to create something new and useful. With Subdirber, I have taken two of my favorite tools, Sublist3r and Dirb, and combined them into one powerful tool for brute forcing multiple hosts.
+I am excited to share with you my latest weird Frankenstein creation: Subdirber. I always enjoy finding ways to combine and enhance existing tools to create something new and useful. With Subdirber, I have taken two of my favorite tools, Sublist3r and Dirb, and combined them into one tool for brute forcing multiple webpage directorys and enumerate subdomains.
 
-I created Subdirber because I was frustrated with the limitations of existing tools when it came to brute forcing multiple hosts. With Subdirber, you can easily and efficiently scan multiple hosts for subdomains and directories.
+I created Subdirber because I was frustrated with the limitations of existing tools when it came to brute forcing multiple hosts. With Subdirber, you can easily and efficiently scan multiple hosts for subdomains and directories WITH A WORDLIST and not only a singe host.
 
 To get started with Subdirber, simply clone the repository and install the necessary dependencies. Then, you can use the tool to scan your desired hosts and gather valuable information.
 how to start : 
